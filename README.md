@@ -29,16 +29,9 @@ Aqui estão alguns dos meus projetos principais:
 Se quiser colaborar, discutir ideias, ou simplesmente trocar uma ideia sobre programação e desenvolvimento, entre em contato:
 
 - **Email:** [matheus1411071227@gmail.com](mailto:matheus1411071227@gmail.com)
-- **LinkedIn:** [Matheus Zuim Campagnol]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-zuim-campagnol-b634942aa/))
+- **LinkedIn:** [Matheus Zuim Campagnol]([https://linkedin.com/in/seu-perfil]](https://www.linkedin.com/in/matheus-zuim-campagnol-b634942aa/])
 - **Instagram:** [Eomagrelo7](https://instagram.com/eomagrelo7)
 
 ---
 
 👨‍💻 Obrigado por visitar meu perfil, e fique à vontade para explorar meus projetos e contribuições. Vamos crescer juntos!
-
----
-
-## Dicas adicionais
-- **Use emojis** para tornar o README mais visual e amigável.
-- **Links e badges** de tecnologias (como os acima) são muito úteis para mostrar rapidamente suas habilidades.
-- **Detalhe um pouco mais** sobre seus projetos principais conforme for criando, incluindo links para os repositórios e instruções de instalação se necessário.
