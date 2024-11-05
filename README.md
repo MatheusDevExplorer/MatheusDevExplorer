@@ -29,7 +29,7 @@ Aqui estão alguns dos meus projetos principais:
 Se quiser colaborar, discutir ideias, ou simplesmente trocar uma ideia sobre programação e desenvolvimento, entre em contato:
 
 - **Email:** [matheus1411071227@gmail.com](mailto:matheus1411071227@gmail.com)
-- **LinkedIn:** [Matheus Zuim Campagnol]([https://linkedin.com/in/seu-perfil]](https://www.linkedin.com/in/matheus-zuim-campagnol-b634942aa/])
+- **LinkedIn:** [Matheus Zuim Campagnol](https://www.linkedin.com/in/matheus-zuim-campagnol-b634942aa/)
 - **Instagram:** [Eomagrelo7](https://instagram.com/eomagrelo7)
 
 ---
