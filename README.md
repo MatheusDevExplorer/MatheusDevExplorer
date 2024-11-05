@@ -5,7 +5,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de programação focado em d
 ### Sobre mim
 - 🔭 Estou estudando programação com o objetivo de criar soluções eficientes e inovadoras.
 - 🌱 Atualmente estou aprendendo **Python**, **JavaScript** e **HTML/CSS**.
-- 📚 Em breve, começarei um curso técnico de Desenvolvimento de Sistemas com duração de 1 ano e meio.
 - 🌍 Estou aprimorando meu inglês para expandir meu alcance e oportunidades.
 
 ### Tecnologias que domino:
@@ -22,20 +21,16 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de programação focado em d
 ### Projetos em Destaque
 Aqui estão alguns dos meus projetos principais:
 
-1. **Nome do Projeto** - _Descrição rápida do que ele faz._
-   - [Link para o projeto](#)
+1. **Campagnol Links** - _É um ferramena, aonde em apenas ua página, eu coloco varios links iportantes._
+   - [https://github.com/MatheusDevExplorer/projeto](#)
    - Principais tecnologias: _HTML, CSS, JavaScript_
-
-2. **Outro Projeto** - _Resumo do projeto._
-   - [Link para o projeto](#)
-   - Principais tecnologias: _Python, Flask_
 
 ### Entre em contato comigo
 Se quiser colaborar, discutir ideias, ou simplesmente trocar uma ideia sobre programação e desenvolvimento, entre em contato:
 
-- **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- **Instagram:** [Seu Instagram](https://instagram.com/seu-perfil)
+- **Email:** [matheus1411071227@gmail.com](mailto:matheus1411071227@gmail.com)
+- **LinkedIn:** [Matheus Zuim Campagnol]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-zuim-campagnol-b634942aa/))
+- **Instagram:** [Eomagrelo7](https://instagram.com/eomagrelo7)
 
 ---
 
